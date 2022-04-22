@@ -1,4 +1,8 @@
 ﻿using lekcja2;
+using lekcjaDatetime;
+
+
+
 int x = 1;
 double x1 = (double) x;
 Console.WriteLine("Rzutowanie Int :"+x.GetType() + " na  Typ :"+x1.GetType());
@@ -44,3 +48,4 @@ IsWorking = false;
 
 Console.WriteLine("Bool "+ IsWorking);
 test.learn1();
+datetime.lesson();
