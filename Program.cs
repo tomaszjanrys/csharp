@@ -5,7 +5,14 @@ Console.WriteLine("Rzutowanie Int :"+x.GetType() + " na  Typ :"+x1.GetType());
 
 int age = 33;
 string ageString = age.ToString();
+
 Console.WriteLine("Age to casting on string " + ageString + "Age type"+age.GetType()+"Age after casting" + ageString.GetType());
+
+int age1 = 33;
+
+decimal age1int= (decimal)age1;
+
+Console.WriteLine(age1.GetType()+"->"+age1int.GetType());
 
 //this it  type casting
 
