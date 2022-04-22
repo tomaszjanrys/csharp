@@ -1,4 +1,4 @@
-﻿
+﻿using lekcja2;
 int x = 1;
 double x1 = (double) x;
 Console.WriteLine("Rzutowanie Int :"+x.GetType() + " na  Typ :"+x1.GetType());
@@ -43,3 +43,4 @@ bool IsWorking;
 IsWorking = false;
 
 Console.WriteLine("Bool "+ IsWorking);
+test.learn1();
