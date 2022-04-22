@@ -1,0 +1,15 @@
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\bin\Debug\net6.0\lekcja.exe
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\bin\Debug\net6.0\lekcja.deps.json
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\bin\Debug\net6.0\lekcja.runtimeconfig.json
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\bin\Debug\net6.0\lekcja.dll
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\bin\Debug\net6.0\lekcja.pdb
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\obj\Debug\net6.0\lekcja.csproj.AssemblyReference.cache
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\obj\Debug\net6.0\lekcja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\obj\Debug\net6.0\lekcja.AssemblyInfoInputs.cache
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\obj\Debug\net6.0\lekcja.AssemblyInfo.cs
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\obj\Debug\net6.0\lekcja.csproj.CoreCompileInputs.cache
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\obj\Debug\net6.0\lekcja.dll
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\obj\Debug\net6.0\refint\lekcja.dll
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\obj\Debug\net6.0\lekcja.pdb
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\obj\Debug\net6.0\lekcja.genruntimeconfig.cache
+C:\Users\nice Nana\Desktop\Studia\csharp\console\lekcja\obj\Debug\net6.0\ref\lekcja.dll
