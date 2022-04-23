@@ -1,5 +1,6 @@
 ﻿using lekcja2;
 using lekcjaDatetime;
+using errorlekcja;
 
 
 
@@ -48,4 +49,9 @@ IsWorking = false;
 
 Console.WriteLine("Bool "+ IsWorking);
 test.learn1();
+
 datetime.lesson();
+
+
+
+Console.WriteLine(error.myErr(19,5));
