@@ -1,3 +1,4 @@
+using System;
 using System.Xml.Linq;
 using System.Linq;
 namespace lekcjaDatetime
@@ -28,6 +29,22 @@ namespace lekcjaDatetime
         myData = DateTime.Now;
         string dateMyFormat = string.Format("Year is {0:yyyy MM dddd HH mm ss ms tt}",myData);
           Console.WriteLine(dateMyFormat);  
+          DateTime reminderTime = new DateTime();
+
+          reminderTime = DateTime.Now;
+          Console.WriteLine($"Dzis jest {reminderTime.ToLongDateString()}");
+          string data1= "";
+          data1= string.Format("Dzis jest {0:dddd} w miesiacu {0:MMMM} roku Panskiego {0:'Roku'yy \n'Godzina' HH}",reminderTime);
+          Console.WriteLine(data1);
+          if(reminderTime.Hour>14)
+          {
+            for (int i = 0; i < 5; i++)
+            {
+              var data = reminderTime.AddHours(i);
+              Console.WriteLine(data);
+            }
+            Console.WriteLine("Jest po poludniu");
+          }
         }
     }
 }
