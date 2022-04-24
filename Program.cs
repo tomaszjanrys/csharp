@@ -85,7 +85,7 @@ Stringmanipulations.myString();
 
 /* 
 loops FOR
-
+s
  */
 
  Loops.myLoops();
