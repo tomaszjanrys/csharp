@@ -84,7 +84,7 @@ Stringmanipulations.myString();
 
 
 /* 
-loops
+loops FOR
 
  */
 
