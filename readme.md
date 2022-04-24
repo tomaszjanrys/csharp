@@ -7,6 +7,6 @@
 > | switch.cs |  switch with time  |
 > | Tryparse.cs |  tryParse string -> decimal  |
 > | Constantsexample.cs |  constant gravity force  |
-> | Stringmanipulations.cs | index, lenght , repalce, lower upper case,    |
+> | Stringmanipulations.cs | index, lenght , repalce, lower upper case, insert, remove , substring   |
 
 `2:53:00`
