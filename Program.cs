@@ -5,6 +5,7 @@ using myswitchlekcja;
 using tryparselekcja;
 using constantsExample;
 using stringmanipulationslekcja;
+using loopslekcja;
 
 
 int x = 1;
@@ -80,3 +81,11 @@ PROMMPT
 
  */
 Stringmanipulations.myString();
+
+
+/* 
+loops
+
+ */
+
+ Loops.myLoops();
