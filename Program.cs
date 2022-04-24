@@ -1,6 +1,7 @@
 ﻿using lekcja2;
 using lekcjaDatetime;
 using errorlekcja;
+using myswitchlekcja;
 
 
 
@@ -55,3 +56,7 @@ datetime.lesson();
 
 
 Console.WriteLine(error.myErr(19,5));
+/* 
+switch
+ */
+Myswitch.mytest();
