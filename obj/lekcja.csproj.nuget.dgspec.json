@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nice Nana\\Desktop\\Studia\\csharp\\console\\lekcja\\lekcja.csproj": {}
+    "C:\\Users\\TensorFlow\\Desktop\\Kursy z UDEMY\\csharp\\csharp\\lekcja.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nice Nana\\Desktop\\Studia\\csharp\\console\\lekcja\\lekcja.csproj": {
+    "C:\\Users\\TensorFlow\\Desktop\\Kursy z UDEMY\\csharp\\csharp\\lekcja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nice Nana\\Desktop\\Studia\\csharp\\console\\lekcja\\lekcja.csproj",
+        "projectUniqueName": "C:\\Users\\TensorFlow\\Desktop\\Kursy z UDEMY\\csharp\\csharp\\lekcja.csproj",
         "projectName": "lekcja",
-        "projectPath": "C:\\Users\\nice Nana\\Desktop\\Studia\\csharp\\console\\lekcja\\lekcja.csproj",
-        "packagesPath": "C:\\Users\\nice Nana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nice Nana\\Desktop\\Studia\\csharp\\console\\lekcja\\obj\\",
+        "projectPath": "C:\\Users\\TensorFlow\\Desktop\\Kursy z UDEMY\\csharp\\csharp\\lekcja.csproj",
+        "packagesPath": "C:\\Users\\TensorFlow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TensorFlow\\Desktop\\Kursy z UDEMY\\csharp\\csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nice Nana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\TensorFlow\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
