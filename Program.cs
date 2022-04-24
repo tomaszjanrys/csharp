@@ -2,7 +2,7 @@
 using lekcjaDatetime;
 using errorlekcja;
 using myswitchlekcja;
-
+using tryparselekcja;
 
 
 int x = 1;
@@ -60,3 +60,9 @@ Console.WriteLine(error.myErr(19,5));
 switch
  */
 Myswitch.mytest();
+
+/* 
+
+try parse
+ */
+Tryparse.myParse();

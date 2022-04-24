@@ -4,3 +4,6 @@
 > | file  | title |
 > |:-|-:|
 > | datetime.cs | time example |
+> | switch.cs |  switch with time  |
+> | Tryparse.cs |  tryParse string -> decimal  |
+
