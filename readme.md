@@ -6,4 +6,7 @@
 > | datetime.cs | time example |
 > | switch.cs |  switch with time  |
 > | Tryparse.cs |  tryParse string -> decimal  |
+> | Constantsexample.cs |  constant gravity force  |
+> | Stringmanipulations.cs | index, lenght , repalce, lower upper case,    |
 
+`2:53:00`

@@ -3,6 +3,8 @@ using lekcjaDatetime;
 using errorlekcja;
 using myswitchlekcja;
 using tryparselekcja;
+using constantsExample;
+using stringmanipulationslekcja;
 
 
 int x = 1;
@@ -66,3 +68,15 @@ Myswitch.mytest();
 try parse
  */
 Tryparse.myParse();
+
+/* 
+
+OCNSTATNTS
+ */
+Constantsexample.myConst();
+
+/* 
+PROMMPT 
+
+ */
+Stringmanipulations.myString();
