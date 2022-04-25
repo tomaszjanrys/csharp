@@ -58,7 +58,7 @@ datetime.lesson();
 
 
 
-Console.WriteLine(error.myErr(19,5));
+Console.WriteLine(error.myErr(19,3));
 /* 
 switch
  */
