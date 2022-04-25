@@ -89,3 +89,8 @@ s
  */
 
  Loops.myLoops();
+
+ /* 
+ loops
+  */
+Looops.looops();
