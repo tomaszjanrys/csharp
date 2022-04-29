@@ -8,6 +8,7 @@ using stringmanipulationslekcja;
 using loopslekcja;
 using loopnestedlekcja;
 using exerciseloopslekcja;
+using randomnumlekcja;
 
 
 int x = 1;
@@ -93,3 +94,8 @@ s
  Loops.myLoops();
 LoopNestes.loopNested();
 Exerciseloops.exerLoops();
+
+/* 
+Random numer
+ */
+Randomnum.randomNumer();

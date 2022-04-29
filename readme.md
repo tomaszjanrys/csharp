@@ -11,6 +11,7 @@
 > | LoopNestes.cs | loop nested    |
 > | Loooops.cs | for do while simple   |
 > | Exerciseloops.cs | for do while simple|   
+> | Randomnum.cs | random numer|   
 
 
-`3:32:00`
+`3:46:00`
