@@ -6,6 +6,7 @@ using tryparselekcja;
 using constantsExample;
 using stringmanipulationslekcja;
 using loopslekcja;
+using loopnestedlekcja;
 
 
 int x = 1;
@@ -89,3 +90,4 @@ s
  */
 
  Loops.myLoops();
+LoopNestes.loopNested();

@@ -8,5 +8,6 @@
 > | Tryparse.cs |  tryParse string -> decimal  |
 > | Constantsexample.cs |  constant gravity force  |
 > | Stringmanipulations.cs | index, lenght , repalce, lower upper case, insert, remove , substring   |
+> | LoopNestes.cs | loop nested    |
 
 `3:15:00`
