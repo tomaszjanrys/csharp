@@ -7,6 +7,7 @@ using constantsExample;
 using stringmanipulationslekcja;
 using loopslekcja;
 using loopnestedlekcja;
+using exerciseloopslekcja;
 
 
 int x = 1;
@@ -90,12 +91,5 @@ s
  */
 
  Loops.myLoops();
-<<<<<<< HEAD
 LoopNestes.loopNested();
-=======
-
- /* 
- loops
-  */
-Looops.looops();
->>>>>>> 65f0cd62d456d106c76e83b798f159a9fec9e0f7
+Exerciseloops.exerLoops()
