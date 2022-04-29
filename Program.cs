@@ -9,6 +9,7 @@ using loopslekcja;
 using loopnestedlekcja;
 using exerciseloopslekcja;
 using randomnumlekcja;
+using arrayslekcja;
 
 
 int x = 1;
@@ -99,3 +100,8 @@ Exerciseloops.exerLoops();
 Random numer
  */
 Randomnum.randomNumer();
+
+/* 
+Arrays
+ */
+ Arrays.myArray();

@@ -12,6 +12,8 @@
 > | Loooops.cs | for do while simple   |
 > | Exerciseloops.cs | for do while simple|   
 > | Randomnum.cs | random numer|   
+> | Arrays.cs | arrays|   
+
 
 
 `3:46:00`
