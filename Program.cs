@@ -59,7 +59,7 @@ datetime.lesson();
 
 
 
-Console.WriteLine(error.myErr(19,5));
+Console.WriteLine(error.myErr(19,3));
 /* 
 switch
  */
@@ -90,4 +90,12 @@ s
  */
 
  Loops.myLoops();
+<<<<<<< HEAD
 LoopNestes.loopNested();
+=======
+
+ /* 
+ loops
+  */
+Looops.looops();
+>>>>>>> 65f0cd62d456d106c76e83b798f159a9fec9e0f7
