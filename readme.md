@@ -12,7 +12,12 @@
 > | Loooops.cs | for do while simple   |
 > | Exerciseloops.cs | for do while simple|   
 > | Randomnum.cs | random numer|   
+<<<<<<< HEAD
 > | Methods.cs | metody|   
+=======
+> | Arrays.cs | arrays|   
+>>>>>>> cd2e39f17f00cd1540c1aaaabb40c309d3452d20
 
 
-`3:46:00`
+
+`4:26:00`
