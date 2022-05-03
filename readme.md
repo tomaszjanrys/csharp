@@ -12,12 +12,8 @@
 > | Loooops.cs | for do while simple   |
 > | Exerciseloops.cs | for do while simple|   
 > | Randomnum.cs | random numer|   
-<<<<<<< HEAD
-> | Methods.cs | metody|   
-=======
-> | Arrays.cs | arrays|   
->>>>>>> cd2e39f17f00cd1540c1aaaabb40c309d3452d20
+> | Methods.cs | metody passing by value and ref or out |   
 
 
 
-`4:26:00`
+`4:34:00`
