@@ -9,7 +9,7 @@ using loopslekcja;
 using loopnestedlekcja;
 using exerciseloopslekcja;
 using randomnumlekcja;
-
+using metodylekcja;
 
 int x = 1;
 double x1 = (double) x;
@@ -99,3 +99,9 @@ Exerciseloops.exerLoops();
 Random numer
  */
 Randomnum.randomNumer();
+
+/* 
+
+methods
+ */
+ Methods.metoda();

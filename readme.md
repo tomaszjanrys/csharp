@@ -12,6 +12,7 @@
 > | Loooops.cs | for do while simple   |
 > | Exerciseloops.cs | for do while simple|   
 > | Randomnum.cs | random numer|   
+> | Methods.cs | metody|   
 
 
 `3:46:00`
